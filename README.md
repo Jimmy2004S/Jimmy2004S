@@ -5,4 +5,5 @@
 
 
 <h3 align="center">My portfolio 👀</h3>
-https://jimmy2004s.github.io/my-portfolio/
+<p align="center">https://jimmy2004s.github.io/my-portfolio/</h>
+
